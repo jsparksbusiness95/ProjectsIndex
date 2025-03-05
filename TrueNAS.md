@@ -7,6 +7,7 @@ My usecase is on the lower-spec side, so dedicating an enterprise-grade server w
 iProda N97 - https://www.amazon.com/dp/B0D28XK78V
 
 It has the following specs:
+
 Intel Alder Lake N97 CPU (4 cores, 3.6 Ghz)
 16 GB SODIMM DDR4 RAM
 512 GB SSD (Used as the boot drive)
@@ -20,11 +21,11 @@ Attached is a 4-bay USB drive hub. Currently, the drives attached are as follows
 
 ## Configuration
 
-# Overview:
+### Overview:
 
 [Create PortMap]
 
-# Storage Setup
+### Storage Setup
 
 Once through the initial configuration, I mapped the drives as follows:
 Drive A - File Storage
