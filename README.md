@@ -4,4 +4,5 @@ This is a list of the projects I've completed in my personal time, either for my
 This is still heavily a WIP and does not yet contain all of my projects
 
 # Timeline
+25.03.18 - Creation of Python page
 25.03.05 - Initial Draft
