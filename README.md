@@ -5,4 +5,5 @@ This is still heavily a WIP and does not yet contain all of my projects
 
 # Timeline
 25.03.18 - Creation of Python page
+
 25.03.05 - Initial Draft
